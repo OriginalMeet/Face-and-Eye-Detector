@@ -1,5 +1,5 @@
 # Face-and-Eye-Detector
-Python code of OpenCV which detects the eyes and face using simple haar-like features and Voila Jones algorithm.
+Python code of OpenCV which detects the eyes and face using simple haar-like features and Viola Jones algorithm.
 
 This repo contains my face and eye detector which I created using OpenCV and Voila Jones Algorithm.
 
